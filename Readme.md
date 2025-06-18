@@ -1,6 +1,6 @@
 # Predicting Online News Popularity Using Machine Learning
 
-## Project Overview
+## Overview
 This project delivers a machine learning pipeline crafted to predict the popularity of online news articles, defined as achieving over 1400 shares, leveraging the Online News Popularity dataset from the UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/332/online+news+popularity). the project employs three distinct algorithms—Naïve Bayes, Support Vector Machine (SVM), and Random Forest—to classify articles based on content and metadata features. The pipeline evaluates performance through accuracy, F1-score, precision, recall, confusion matrices, and learning curves, utilizing 5-fold cross-validation and 3-fold nested cross-validation for robust hyperparameter tuning. Designed for researchers and practitioners interested in digital media analytics, this project showcases a systematic approach to understanding the drivers of online content virality.
 
 ## Technical Details
